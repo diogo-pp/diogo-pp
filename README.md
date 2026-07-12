@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Diogo de paula
 
-<!--
-**diogo-pp/diogo-pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Gerente tecnico Telecomunicação**  
 
-Here are some ideas to get you started:
+## 🌐 Where to find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/diogo-pp">
+    <img src="https://img.shields.io/badge/diogo-pp?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/oreidosites">
+    <img src="https://img.shields.io/badge/Instagram-@diogoppaula?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  </p>
+
