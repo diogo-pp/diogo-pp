@@ -8,7 +8,7 @@
   <a href="https://github.com/diogo-pp">
     <img src="https://img.shields.io/badge/diogo-pp?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/diogoppaula">
     <img src="https://img.shields.io/badge/Instagram-@diogoppaula?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   </p>
