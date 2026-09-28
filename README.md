@@ -1,4 +1,4 @@
-# Hi 👋, I'm Diogo de paula
+# Diogo de paula
 
 🚀 **Gerente tecnico Telecomunicação**  
 
