@@ -12,5 +12,8 @@
   <a href="https://instagram.com/diogoppaula">
     <img src="https://img.shields.io/badge/Instagram-@diogoppaula?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+    <a href="https://www.treinaweb.com.br/p/diogopaulapereira">
+    <img src="https://img.shields.io/badge/Instagram-@diogoppaula?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   </p>
 
