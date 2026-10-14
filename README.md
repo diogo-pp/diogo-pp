@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-@diogoppaula?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
     <a href="https://www.treinaweb.com.br/p/diogopaulapereira">
-    <img src="https://www.treinaweb.com.br/assets/images/apple-touch-icon.png" />
+    <img src="https://www.treinaweb.com.br/assets/images/apple-touch-icon.png style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   </p>
 
